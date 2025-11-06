@@ -13,6 +13,8 @@
  <img align = "center" alt = "NodeJS" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
  <img align = "center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
  <img align = "center" alt = "Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img align = "center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+ <img align = "center" alt="docker" width="40" height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 </div><br>
 
 Amante da tecnologia e do poder de transformação que ela tem. Em constante evolução, porque nunca deixamos de aprender. 
